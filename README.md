@@ -17,3 +17,6 @@ apiendpoint_4945d7ba-fd20-47de-ac8b-1c137f52ae52
 -İstek atarken asenkron işlem olduğu iic async  await ile bekledik.
 
 -`getChatResponse` fonksiyonunu parametre olarak incomingChaTdİV'i gönderdik.Çünkü veritabanından gelen veriyi incomingChatDiv'in içerisinde bulunan typinganimation yerine aktaracağız.# chatGbt-Clone
+
+Screen Gif
+![Image](https://github.com/user-attachments/assets/007401aa-cce8-4f43-9f50-db4835d484d6)
